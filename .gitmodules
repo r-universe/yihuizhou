@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PCFAM"]
+	path = PCFAM
+	url = https://github.com/cran/PCFAM
+	shallow = true
+	registered = true
